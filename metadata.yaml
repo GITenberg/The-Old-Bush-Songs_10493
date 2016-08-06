@@ -1,0 +1,30 @@
+_repo: The-Old-Bush-Songs_10493
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Paterson, A. B. (Andrew Barton)
+    aliases:
+    - Paterson, Andrew Barton
+    - Paterson, Banjo
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '118'
+    url: http://www.gutenberg.org/2009/agents/118
+    wikipedia: http://en.wikipedia.org/wiki/Banjo_Paterson
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Australian poetry'
+- !lcsh 'Songs, English -- Australia'
+- GITenberg
+title: The Old Bush Songs
+url: http://www.gutenberg.org/ebooks/10493

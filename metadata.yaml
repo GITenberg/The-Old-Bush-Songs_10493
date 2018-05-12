@@ -1,5 +1,5 @@
 _repo: The-Old-Bush-Songs_10493
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   compiler:
     agent_name: Paterson, A. B. (Andrew Barton)
@@ -11,7 +11,12 @@ contributor:
     gutenberg_agent_id: '118'
     url: http://www.gutenberg.org/2009/agents/118
     wikipedia: http://en.wikipedia.org/wiki/Banjo_Paterson
+covers:
+- cover_type: archival
+  image_path: 10493-h/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10493#The-Old-Bush-Songs
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
